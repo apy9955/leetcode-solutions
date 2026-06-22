@@ -32,6 +32,7 @@ A collection of my LeetCode solutions in C++, covering Data Structures, Algorith
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/apy9955/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0368-largest-divisible-subset](https://github.com/apy9955/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 ## Dynamic Programming
 |  |
