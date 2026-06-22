@@ -22,6 +22,7 @@ A collection of my LeetCode solutions in C++, covering Data Structures, Algorith
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/apy9955/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/apy9955/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/apy9955/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of my LeetCode solutions in C++, covering Data Structures, Algorith
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/apy9955/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0389-find-the-difference](https://github.com/apy9955/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -52,4 +54,8 @@ A collection of my LeetCode solutions in C++, covering Data Structures, Algorith
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/apy9955/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/apy9955/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
