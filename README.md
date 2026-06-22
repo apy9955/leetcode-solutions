@@ -7,6 +7,7 @@ A collection of my LeetCode solutions in C++, covering Data Structures, Algorith
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/apy9955/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0074-search-a-2d-matrix](https://github.com/apy9955/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/apy9955/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/apy9955/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/apy9955/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -43,4 +44,12 @@ A collection of my LeetCode solutions in C++, covering Data Structures, Algorith
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/apy9955/leetcode-solutions/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/apy9955/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/apy9955/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
