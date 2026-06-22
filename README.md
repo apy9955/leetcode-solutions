@@ -33,6 +33,7 @@ A collection of my LeetCode solutions in C++, covering Data Structures, Algorith
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/apy9955/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/apy9955/leetcode-solutions/tree/master/0050-powx-n) |
 | [0368-largest-divisible-subset](https://github.com/apy9955/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 ## Dynamic Programming
 |  |
@@ -59,4 +60,8 @@ A collection of my LeetCode solutions in C++, covering Data Structures, Algorith
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/apy9955/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/apy9955/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
